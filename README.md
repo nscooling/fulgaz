@@ -88,7 +88,7 @@ If you don't want to suck up all you bandwidth (and keep the rest of the househo
 
 e.g.
 ```
-$ wget -N -b -limit-rate=500k -i fulgaz-list-<size>.txt
+$ wget -N -b --limit-rate=500k -i fulgaz-list-<size>.txt
 ```
 
 
